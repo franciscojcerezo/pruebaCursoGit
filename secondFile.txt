@@ -1,1 +1,2 @@
-primera linea from master
+Primera linea from master
+Incluyendo conflictos en la rama independencia
